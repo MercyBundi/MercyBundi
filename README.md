@@ -57,4 +57,3 @@ I am always open to discussing data-driven projects, statistical research opport
 
 * 💼 **LinkedIn:** [Connect with me on LinkedIn](https://ke.linkedin.com/in/mercy-bundi-5931961b8)
 * 📍 **Location:** Nairobi, Kenya
-*
