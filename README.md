@@ -35,7 +35,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 * **The Value:** Structured raw customer demographics to uncover how background variables like household income, occupational background, and daily commute distances directly influence purchase rates for targeted marketing strategies.
 * **Tools Used:** Excel (Pivot Tables & Dashboards), Data Cleaning.
 
-### 📊 [COVID-19 Workforce Layoffs Investigation](https://github.com/MercyBundi/Excel/blob/main/Bike%20Sales%20Analysis/README.md)
+### 📊 [COVID-19 Workforce Layoffs Investigation](https://github.com/MercyBundi/MySQL/tree/main/Layoffs%20Dataset)
 * **What it is:** An exploratory data analysis (EDA) capturing global labor trends and job reductions across industries during the pandemic period.
 * **The Value:** Utilized optimized data querying to filter, sort, and aggregate large-scale workforce changes, providing clear data-driven insights into industry impacts to support strategic risk analysis.
 * **Tools Used:** SQL Queries, Trend Aggregation.
@@ -55,7 +55,6 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 
 I am always open to discussing data-driven projects, statistical research opportunities, or business intelligence roles. 
 
-* 📧 **Email:** [bundimercy5@gmail.com](mailto:bundimercy5@gmail.com)
-* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mercy-njeri-bundi)
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://ke.linkedin.com/in/mercy-bundi-5931961b8)
 * 📍 **Location:** Nairobi, Kenya
 *
