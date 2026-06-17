@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mercy Njeri Bundi!
+# 👋 Hi, I'm Mercy Bundi!
 
 ### **Biostatistician & Data Analyst**
 
