@@ -20,7 +20,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 ## 🌟 Featured Portfolio Projects
 *Click on any project title below to see the full details, business value, and visual previews!*
 
-### 📈 [Retail Sales Performance & Future Forecasting](https://github.com/MercyBundi/Retail-Sales-Project)
+### 📈 [Retail Sales Performance & Future Forecasting (https://github.com/MercyBundi/Python/blob/64a9e124b2d74d0dc996527e429c889ec5f3972e/Retail%20Sales%20Project/README.md))
 * **What it is:** A predictive analytics project tracking customer purchase trends, seasonal fluctuations, and monthly sales performance.
 * **The Value:** Applied advanced time-series statistical modeling (SARIMA) to accurately forecast future sales trends, helping businesses optimize inventory and plan marketing budgets proactively.
 * **Tools Used:** Python (Pandas, Matplotlib, Seaborn), SARIMA.
