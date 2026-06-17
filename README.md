@@ -30,7 +30,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 * **The Value:** Visualized localized revenue patterns over time, identifying cost patterns across different zip codes and seasonal occupancy fluctuations to guide data-driven real estate decisions.
 * **Tools Used:** Data Visualization & Analytics.
 
-### 🚲 [Target Market Bike Sales Analysis](https://github.com/MercyBundi/Excel/blob/main/README.md)
+### 🚲 [Target Market Bike Sales Analysis](https://github.com/MercyBundi/Excel/blob/main/Bike%20Sales%20Analysis/README.md)
 * **What it is:** A demographic breakdown of consumer purchase behavior built into an interactive reporting dashboard.
 * **The Value:** Structured raw customer demographics to uncover how background variables like household income, occupational background, and daily commute distances directly influence purchase rates for targeted marketing strategies.
 * **Tools Used:** Excel (Pivot Tables & Dashboards), Data Cleaning.
