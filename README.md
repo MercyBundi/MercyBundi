@@ -35,7 +35,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 * **The Value:** Structured raw customer demographics to uncover how background variables like household income, occupational background, and daily commute distances directly influence purchase rates for targeted marketing strategies.
 * **Tools Used:** Excel (Pivot Tables & Dashboards), Data Cleaning.
 
-### 📊 [COVID-19 Workforce Layoffs Investigation](https://github.com/MercyBundi/MySQL/tree/main/Layoffs%20Dataset)
+### 📊 [COVID-19 Workforce Layoffs Analysis](https://github.com/MercyBundi/MySQL/tree/13923fd2938699b55dcd5cb81b06c79017326607/Covid-19%20Layoffs%20Analysis)
 * **What it is:** An exploratory data analysis (EDA) capturing global labor trends and job reductions across industries during the pandemic period.
 * **The Value:** Utilized optimized data querying to filter, sort, and aggregate large-scale workforce changes, providing clear data-driven insights into industry impacts to support strategic risk analysis.
 * **Tools Used:** SQL Queries, Trend Aggregation.
