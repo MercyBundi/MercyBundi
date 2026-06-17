@@ -28,7 +28,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 ### 🏠 [Airbnb Interactive Pricing & Revenue Analysis](https://github.com/MercyBundi/Tableau/blob/main/AirBnB%20Analysis/README.md)
 * **What it is:** An interactive data investigation into property listing distributions, room types, and accommodation pricing structures.
 * **The Value:** Visualized localized revenue patterns over time, identifying cost patterns across different zip codes and seasonal occupancy fluctuations to guide data-driven real estate decisions.
-* **Tools Used:** Data Visualization & Analytics.
+* **Tools Used:** Tableau, Data Visualization & Analytics.
 
 ### 🚲 [Target Market Bike Sales Analysis](https://github.com/MercyBundi/Excel/blob/main/Bike%20Sales%20Analysis/README.md)
 * **What it is:** A demographic breakdown of consumer purchase behavior built into an interactive reporting dashboard.
