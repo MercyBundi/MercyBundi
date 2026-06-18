@@ -25,7 +25,7 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 * **The Value:** Applied advanced time-series statistical modeling (SARIMA) to accurately forecast future sales trends, helping businesses optimize inventory and plan marketing budgets proactively.
 * **Tools Used:** Python (Pandas, Matplotlib, Seaborn), SARIMA.
 
-### 🏠 [Airbnb Interactive Pricing & Revenue Analysis](https://github.com/MercyBundi/Tableau/blob/main/AirBnB%20Analysis)
+### 🏠 [Airbnb Interactive Pricing & Revenue Analysis](https://github.com/MercyBundi/Tableau/tree/4cb261ebbf37e83f20084c23632961d6bc059ebd/AirBnB%20Market%20Analysis)
 * **What it is:** An interactive data investigation into property listing distributions, room types, and accommodation pricing structures.
 * **The Value:** Visualized localized revenue patterns over time, identifying cost patterns across different zip codes and seasonal occupancy fluctuations to guide data-driven real estate decisions.
 * **Tools Used:** Tableau, Data Visualization & Analytics.
