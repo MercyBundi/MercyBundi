@@ -20,22 +20,22 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 ## 🌟 Featured Portfolio Projects
 *Click on any project title below to see the full details, business value, and visual previews!*
 
-### 📈 [Retail Sales Performance & Future Forecasting](https://github.com/MercyBundi/Python/blob/64a9e124b2d74d0dc996527e429c889ec5f3972e/Retail%20Sales%20Project)
+### 📈 [Retail Sales Performance & Future Forecasting](https://github.com/MercyBundi/Python/tree/main/Retail Sales Project)
 * **What it is:** A predictive analytics project tracking customer purchase trends, seasonal fluctuations, and monthly sales performance.
 * **The Value:** Applied advanced time-series statistical modeling (SARIMA) to accurately forecast future sales trends, helping businesses optimize inventory and plan marketing budgets proactively.
 * **Tools Used:** Python (Pandas, Matplotlib, Seaborn), SARIMA.
 
-### 🏠 [Airbnb Interactive Pricing & Revenue Analysis](https://github.com/MercyBundi/Tableau/tree/4cb261ebbf37e83f20084c23632961d6bc059ebd/AirBnB%20Market%20Analysis)
+### 🏠 [Airbnb Interactive Pricing & Revenue Analysis](https://github.com/MercyBundi/Tableau/tree/main/AirBnB%20Market%20Analysis)
 * **What it is:** An interactive data investigation into property listing distributions, room types, and accommodation pricing structures.
 * **The Value:** Visualized localized revenue patterns over time, identifying cost patterns across different zip codes and seasonal occupancy fluctuations to guide data-driven real estate decisions.
 * **Tools Used:** Tableau, Data Visualization & Analytics.
 
-### 🚲 [Target Market Bike Sales Analysis](https://github.com/MercyBundi/Excel/blob/main/Bike%20Sales%20Analysis)
+### 🚲 [Target Market Bike Sales Analysis](https://github.com/MercyBundi/Excel/tree/main/Bike%20Sales%20Analysis)
 * **What it is:** A demographic breakdown of consumer purchase behavior built into an interactive reporting dashboard.
 * **The Value:** Structured raw customer demographics to uncover how background variables like household income, occupational background, and daily commute distances directly influence purchase rates for targeted marketing strategies.
 * **Tools Used:** Excel (Pivot Tables & Dashboards), Data Cleaning.
 
-### 📊 [COVID-19 Workforce Layoffs Analysis](https://github.com/MercyBundi/MySQL/tree/7321e8b55c3011309ff6e1ab882267333cff6b49/Covid-19%20Layoffs%20Analysis)
+### 📊 [COVID-19 Workforce Layoffs Analysis](https://github.com/MercyBundi/MySQL/tree/main/Covid-19%20Layoffs%20Analysis)
 * **What it is:** An exploratory data analysis (EDA) capturing global labor trends and job reductions across industries during the pandemic period.
 * **The Value:** Utilized optimized data querying to filter, sort, and aggregate large-scale workforce changes, providing clear data-driven insights into industry impacts to support strategic risk analysis.
 * **Tools Used:** SQL Queries, Trend Aggregation.
