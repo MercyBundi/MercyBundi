@@ -56,4 +56,5 @@ I transform complex, raw datasets into clear, data-driven insights that help org
 I am always open to discussing data-driven projects, statistical research opportunities, or business intelligence roles. 
 
 * 💼 **LinkedIn:** [Connect with me on LinkedIn](https://ke.linkedin.com/in/mercy-bundi-5931961b8)
+* 📩 **Email** [mercybundi7474@gmail.com](mailto:mercybundi7474@gmail.com)
 * 📍 **Location:** Nairobi, Kenya
